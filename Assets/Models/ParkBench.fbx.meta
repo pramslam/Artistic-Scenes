@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 34d245a0f38651e4f905c1b427f2f33b
+timeCreated: 1533684718
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bottom Bench
+    100002: Camera
+    100004: L_BenchLegs
+    100006: L_BenchSide
+    100008: L_Handle
+    100010: L_HigherNails
+    100012: L_LowerBenchSide
+    100014: L_LowerNails
+    100016: L_MetalConnection
+    100018: Lamp
+    100020: //RootNode
+    100022: R_BenchLegs
+    100024: R_Handle
+    100026: R_HigherBenchside
+    100028: R_HigherNails
+    100030: R_Lowerbenchside
+    100032: R_LowerNails
+    100034: R_Metal Connection
+    100036: TopBenchBoards
+    400000: Bottom Bench
+    400002: Camera
+    400004: L_BenchLegs
+    400006: L_BenchSide
+    400008: L_Handle
+    400010: L_HigherNails
+    400012: L_LowerBenchSide
+    400014: L_LowerNails
+    400016: L_MetalConnection
+    400018: Lamp
+    400020: //RootNode
+    400022: R_BenchLegs
+    400024: R_Handle
+    400026: R_HigherBenchside
+    400028: R_HigherNails
+    400030: R_Lowerbenchside
+    400032: R_LowerNails
+    400034: R_Metal Connection
+    400036: TopBenchBoards
+    2000000: Camera
+    2100000: Bench Metal
+    2100002: Bench Boards
+    2300000: Bottom Bench
+    2300002: L_BenchLegs
+    2300004: L_BenchSide
+    2300006: L_Handle
+    2300008: L_HigherNails
+    2300010: L_LowerBenchSide
+    2300012: L_LowerNails
+    2300014: L_MetalConnection
+    2300016: R_BenchLegs
+    2300018: R_Handle
+    2300020: R_HigherBenchside
+    2300022: R_HigherNails
+    2300024: R_Lowerbenchside
+    2300026: R_LowerNails
+    2300028: R_Metal Connection
+    2300030: TopBenchBoards
+    3300000: Bottom Bench
+    3300002: L_BenchLegs
+    3300004: L_BenchSide
+    3300006: L_Handle
+    3300008: L_HigherNails
+    3300010: L_LowerBenchSide
+    3300012: L_LowerNails
+    3300014: L_MetalConnection
+    3300016: R_BenchLegs
+    3300018: R_Handle
+    3300020: R_HigherBenchside
+    3300022: R_HigherNails
+    3300024: R_Lowerbenchside
+    3300026: R_LowerNails
+    3300028: R_Metal Connection
+    3300030: TopBenchBoards
+    4300000: L_Handle
+    4300002: L_BenchSide
+    4300004: L_LowerBenchSide
+    4300006: L_MetalConnection
+    4300008: L_BenchLegs
+    4300010: L_LowerNails
+    4300012: L_HigherNails
+    4300014: R_HigherNails
+    4300016: R_LowerNails
+    4300018: R_BenchLegs
+    4300020: R_Metal Connection
+    4300022: R_Handle
+    4300024: R_Lowerbenchside
+    4300026: R_HigherBenchside
+    4300028: TopBenchBoards
+    4300030: Bottom Bench
+    10800000: Lamp
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
